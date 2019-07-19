@@ -1,6 +1,10 @@
 
 # Introduction - Python Libraries: Numpy and Pandas
 
+## Introduction
+
+In this section, you'll be introduced to two libraries you will use extensively during your career as a Data Scientist: Numpy and Pandas!
+
 ## Objectives
 
 You will be able to:
