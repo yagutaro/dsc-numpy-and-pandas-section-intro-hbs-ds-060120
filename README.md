@@ -9,7 +9,7 @@ In this section, you'll be introduced to two libraries you will use extensively 
 
 You will be able to:
 
-* Understand the importance of Numpy and Pandas for Data Scientists 
+- Understand the importance of Numpy and Pandas for Data Scientists 
 
 
 ## Python and the Open-Source Movement
@@ -28,12 +28,12 @@ The two most foundational libraries in the Data Science 'Stack' are **_Numpy_** 
 
 ### Numpy: Numerical Computation
 
-The Python library that's most important to Data Scientists is almost certainly [Numpy](http://www.numpy.org/). Numpy is a _Numerical Computation_ Library, because it provides the building blocks for all of the other amazing Python libraries such as Pandas, in addition to providing a quick and easy way to do avanced mathematical computations. In a few short lessons, we're going to learn all about how Numpy works, how we can use it to quickly perform advanced math and computations, and how it fits into Data Science as a whole. 
+The Python library that's most important to Data Scientists is almost certainly [Numpy](http://www.numpy.org/). Numpy is a _Numerical Computation_ Library, because it provides the building blocks for all of the other amazing Python libraries such as Pandas, in addition to providing a quick and easy way to do advanced mathematical computations. In a few short lessons, we're going to learn all about how Numpy works, how we can use it to quickly perform advanced math and computations, and how it fits into Data Science as a whole. 
 
 
 ### Pandas: For Working With Data
 
-[Pandas](https://pandas.pydata.org/) is a library for Data Analysis that makes Python a much more effective tool for Data Science. Pandas allows us to create **_DataFrames_** to organize and work with any dataset. You'll probably recognize DataFrames when you see them -- they look just like an Excel Spreadsheet! In this section, we're going to get **A LOT** of practice in with Pandas. You'll learn how Data Scientists use Pandas to quickly and effectively read, store, manipulate, and export data. The best part is, it's a one-stop shop, since it is built on top of libraries like Numpy and Matplotlib!
+[Pandas](https://pandas.pydata.org/) is a library for Data Analysis that makes Python a much more effective tool for Data Science. Pandas allows us to create **_DataFrames_** to organize and work with any dataset. You'll probably recognize DataFrames when you see them -- they look just like an Excel Spreadsheet! In this section, we're going to get **A LOT** of practice in Pandas. You'll learn how Data Scientists use Pandas to quickly and effectively read, store, manipulate, and export data. The best part is, it's a one-stop shop since it is built on top of libraries like Numpy and Matplotlib!
 
 ## Summary
 
