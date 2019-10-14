@@ -5,16 +5,10 @@
 
 In this section, you'll be introduced to two libraries you will use extensively during your career as a Data Scientist: Numpy and Pandas!
 
-## Objectives
-
-You will be able to:
-
-- Understand the importance of Numpy and Pandas for Data Scientists 
-
 
 ## Python and the Open-Source Movement
 
-Now that we've learned some Python skills and some Data Science knowledge, it's time to start gaining experience with the tools the professionals use. There are two languages that are heavily used in Data Science: Python and R. As you've probably surmised by now, we'll be focusing on Python. One of the great benefits of the Python language is that it has a very active open-source community, which means tons of great libraries and frameworks we can use to do the heavy lifting. One of the main reasons that Python is such a great choice for Data Science is that the Scientific Community has written plenty of great packages to do all advanced things we need. This means that when we use Python, we have access to a wealth of robust, effective tools written and maintained by an army of volunteers and professionals. 
+Now that we've learned some Python skills and have some Data Science knowledge, it's time to start gaining experience with the tools the professionals use. There are two programming languages that are heavily used in Data Science: Python and R. As you've probably surmised by now, we'll be focusing on Python. One of the great benefits of the Python language is that it has a very active open-source community, which means tons of great libraries and frameworks we can use to do the heavy lifting. One of the main reasons that Python is such a great choice for Data Science is that the scientific community has written plenty of great packages to do all advanced things we need. This means that when we use Python, we have access to a wealth of robust, effective tools written and maintained by an army of volunteers and professionals. 
 
 In this section, we're going to dig into two of the most foundational libraries in the Data Science toolbox --  **_Numpy_** and **_Pandas_**!
 
@@ -33,8 +27,4 @@ The Python library that's most important to Data Scientists is almost certainly 
 
 ### Pandas: For Working With Data
 
-[Pandas](https://pandas.pydata.org/) is a library for Data Analysis that makes Python a much more effective tool for Data Science. Pandas allows us to create **_DataFrames_** to organize and work with any dataset. You'll probably recognize DataFrames when you see them -- they look just like an Excel Spreadsheet! In this section, we're going to get **A LOT** of practice in Pandas. You'll learn how Data Scientists use Pandas to quickly and effectively read, store, manipulate, and export data. The best part is, it's a one-stop shop since it is built on top of libraries like Numpy and Matplotlib!
-
-## Summary
-
-In this lesson, we learned about Numpy and Pandas, and how they'll be the focus of this section. 
+[Pandas](https://pandas.pydata.org/) is a library for data analysis that makes Python a much more effective tool for Data Science. Pandas allows us to create **_DataFrames_** to organize and work with any dataset. You'll probably recognize DataFrames when you see them -- they look just like an Excel Spreadsheet! In this section, we're going to get **A LOT** of practice in Pandas. You'll learn how Data Scientists use Pandas to quickly and effectively read, store, manipulate, and export data. The best part is, it's a one-stop shop since it is built on top of libraries like Numpy and Matplotlib!
