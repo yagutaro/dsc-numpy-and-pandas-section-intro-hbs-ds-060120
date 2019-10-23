@@ -1,5 +1,5 @@
 
-# Introduction - Python Libraries: Numpy and Pandas
+# Python Libraries: Numpy and Pandas - Introduction
 
 ## Introduction
 
