@@ -1,0 +1,6 @@
+---
+:lessons:
+- :id: 4242
+  :course_id: 153
+  :canvas_url: https://learning.flatironschool.com/courses/153/pages/dsc-numpy-and-pandas-section-intro
+  :type: page
